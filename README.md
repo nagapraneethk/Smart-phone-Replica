@@ -1,5 +1,7 @@
 # Smart-phone-Replica
 CONTENTS:
+https://github.com/nagapraneethk/Smart-phone-Replica#abstract
+https://github.com/nagapraneethk/Smart-phone-Replica#abstract
 
 ## INTRODUCTION:
 
