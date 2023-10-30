@@ -36,11 +36,11 @@ It allows the user to create a new password. File handling is used to check and 
 
 It allows the user to change the lock screen wallpaper. File handling plays a major part in accessing the changes in the lock screen wallpaper.
 
-    Before:
+Before:
 
 <img width="243" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/78c2d45c-c62d-4e43-afed-fa92d686aa9d">
  
-    After:
+After:
 
 <img width="256" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/7dd8de3b-0ac0-43ce-8fcb-36584ac79879">
 
@@ -49,11 +49,11 @@ It allows the user to change the lock screen wallpaper. File handling plays a ma
 
 This function is used to change the font color of the mobile(entire program).  system(“color ##”) command is used to change the desired font color.
 
-    Before:
+Before:
 
 <img width="273" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f8928733-e195-4b1a-b98e-982c8cfb8583">
 
-    After:
+After:
 
 <img width="208" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/6e812795-7b54-4f69-a7ee-dab9fd529e63">
 
@@ -62,11 +62,11 @@ This function is used to change the font color of the mobile(entire program).  s
 
 This setting allows the user to access the desired display color. system(“color ##”) command is used to change the display color. 
 
-    Before:
+Before:
 
 <img width="305" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/80e11adc-30c1-40a0-be22-662bb477fb49">
  
-    After:
+After:
 
 <img width="238" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/57540718-9fb5-470f-aee2-96030f806980">
 
