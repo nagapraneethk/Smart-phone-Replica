@@ -15,39 +15,64 @@ The "Phone Replica" project aims to develop a software application that replicat
 ●		Testing: The method used to test the program is user acceptance testing. 
 
 ●	Lock Screen Display:
+
 <img width="300" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/6938b7d6-84ff-4621-9e12-2848ecf6fc55">
 
-•	Home Screen: 
+#### Home Screen: 
+
  <img width="205" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/2677968b-2db9-4789-8761-f8be8af245aa">
 
-•	 Settings:
+#### Settings:
+
  <img width="248" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/26effe15-9485-4a28-9de1-d512ed038514">
 
-•	Change Password: It allows the user to create a new password. File handling is used to check and store the password entered by the user. String comparison is used to verify the password entered by the user. For security purposes when the user enters the password it will display in “*” format and it is done through “\b” in printf function.
+#### Change Password: 
+
+It allows the user to create a new password. File handling is used to check and store the password entered by the user. String comparison is used to verify the password entered by the user. For security purposes when the user enters the password it will display in “*” format and it is done through “\b” in printf function.
+
  <img width="270" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/31b82956-1893-4f43-9bf5-ac4d2887d18d">
 
-•	Set Wallpaper: It allows the user to change the lock screen wallpaper. File handling plays a major part in accessing the changes in the lock screen wallpaper.
+#### Set Wallpaper: 
+
+It allows the user to change the lock screen wallpaper. File handling plays a major part in accessing the changes in the lock screen wallpaper.
+
 Before:
+
  <img width="243" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/78c2d45c-c62d-4e43-afed-fa92d686aa9d">
+ 
 After:
+
 <img width="256" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/7dd8de3b-0ac0-43ce-8fcb-36584ac79879">
 
  
-•	Font Color: This function is used to change the font color of the mobile(entire program).  system(“color ##”) command is used to change the desired font color.
+#### Font Color: 
+
+This function is used to change the font color of the mobile(entire program).  system(“color ##”) command is used to change the desired font color.
+
 Before:
+
  <img width="273" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f8928733-e195-4b1a-b98e-982c8cfb8583">
+
 After:
+
 <img width="208" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/6e812795-7b54-4f69-a7ee-dab9fd529e63">
 
  
-•	Display Color: This setting allows the user to access the desired display color. system(“color ##”) command is used to change the display color. 
+#### Display Color: 
+
+This setting allows the user to access the desired display color. system(“color ##”) command is used to change the display color. 
+
 Before:
+
  <img width="305" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/80e11adc-30c1-40a0-be22-662bb477fb49">
+ 
  After:
+
 <img width="238" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/57540718-9fb5-470f-aee2-96030f806980">
 
  
-•	App List: 
+#### App List: 
+
  <img width="284" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f49f8ca5-f598-4d86-ba81-85c48b0090f6">
 
 ## APPS IN PHONE REPLICA
