@@ -1,1 +1,4 @@
 # Smart-phone-Replica
+##INTRODUCTION:
+The purpose of this project is to develop a software application in C language that replicates the functionality of a basic mobile phone. The Phone Replica application will have ability to add contacts, play games, perform a function of simple calculator and currency convertor and display a calendar. It also has an ability to install and delete apps from Appstore. This replica has a feature to change the password, wallpaper of lock screen, font colour and display colour through the settings. It also has file manager which consists of folders, sub folders and files. File manager provides user to create new folders, subfolders and files and it also has access to delete and edit them.
+![image](https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/b75ec369-f1e7-4152-a910-c1605d9f7306)
