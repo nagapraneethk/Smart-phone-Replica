@@ -71,11 +71,12 @@ After:
 <img width="238" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/57540718-9fb5-470f-aee2-96030f806980">
 
  
-#### App List: 
+## APPS IN PHONE REPLICA
+
+### App List: 
 
 <img width="284" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f49f8ca5-f598-4d86-ba81-85c48b0090f6">
 
-## APPS IN PHONE REPLICA
 
 ### Rock Paper Scissors: 
 
