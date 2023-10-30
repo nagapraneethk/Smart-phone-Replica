@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+	int d1,d2,m1,m2,y1,y2;
+	printf("Enter your date of birth in yyyy/mm/dd: ");
+	scanf("%d %d %d",&y1,&m1,&d1);
+	y2=2022-y1;
+	m2=12-m1;
+	d2=31-d1;
+	printf("%d years, %d months, %d days",y2,m2,d2);
+	return 0;
+}

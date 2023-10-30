@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+	printf("Butta Akhil\n");
+	printf("H.NO:1/3125-1\n");
+	printf("S.M.T Colony,Yemmiganur,Kurnool(dist)\n");
+	printf("Andhra Pradesh\n");
+	printf("518360");
+	return 0;
+}

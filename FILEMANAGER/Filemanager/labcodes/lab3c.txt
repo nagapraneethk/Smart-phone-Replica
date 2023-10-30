@@ -1,0 +1,27 @@
+#include<stdio.h>
+int main(){
+	char name[20],roll[20],mobile[10],gender;
+	int m1,m2,m3,sum;
+	float avg;
+	printf("Enter your name: ");
+	scanf("%[^\n]s",name);
+	printf("Enter your roll number: ");
+	scanf("%s",roll);
+	printf("Enter your mobile number: ");
+	scanf("%s",mobile);
+	fflush(stdin);
+	printf("Enter your gender: ");
+	scanf("%c",&gender);
+	printf("Enter marks of three subjects: ");
+	scanf("%d %d %d",&m1,&m2,&m3);
+	sum=m1+m2+m3;
+	avg=sum/3.0;
+	printf("Name: %s\n",name);
+	printf("Gender: %c\n",gender);
+	printf("Roll: %s\n",roll);
+	printf("Mobile: %s\n",mobile);
+	printf("marks: %d %d %d\n",m1,m2,m3);
+	printf("Total marks: %d\n",sum);
+	printf("Average of marks: %.2f",avg);
+	return 0;
+	}

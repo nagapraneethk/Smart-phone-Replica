@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+	float p,t,r,a;
+	printf("Enter principal amount: \n");
+	scanf("%f",&p);
+	printf("Enter time in years: \n");
+	scanf("%f",&t);
+	printf("Enter rate of interest: \n");
+	scanf("%f",&r);
+	a=(p*t*r)*0.01;
+	printf("Amount of interest earned=%f",a);
+	return 0;
+}

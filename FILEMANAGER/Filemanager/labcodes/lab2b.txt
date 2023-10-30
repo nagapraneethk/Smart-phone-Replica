@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main(){
+	char name[20],pos[20];
+	int age;
+	float salary,basicpay;
+	printf("Enter your name:\n");
+	scanf("%[^\n]s",name);
+	fflush(stdin);
+	printf("Enter your position: \n");
+	scanf("%[^\n]s",pos);
+	printf("Enter your age: \n");
+	scanf("%d",&age);
+	printf("Enter your basicpay: \n");
+	scanf("%f",&basicpay);
+	salary=basicpay+0.35*basicpay;
+	printf("Name of the employee: %s\n",name);
+	printf("Position: %s\n",pos);
+	printf("Age: %d\n",age);
+	printf("Salary: %f",salary);
+	return 0;
+}

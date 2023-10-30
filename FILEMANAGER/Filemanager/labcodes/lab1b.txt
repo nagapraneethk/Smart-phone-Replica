@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+	int a,b,c,d,e,sum;
+	float avg;
+	printf("Enter 5 numbers: ");
+	scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);
+	sum=a+b+c+d+e;
+	avg=sum/5.0;
+	printf("Sum of entered five numbers=%d\n",sum);
+	printf("Avgerage of entered five numbers=%f",avg);
+	return 0;
+}
