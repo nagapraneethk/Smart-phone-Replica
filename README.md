@@ -112,90 +112,98 @@ The game is between two users. Whenever any player forms a straight line in any 
 
 <img width="125" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/776cc94a-762c-4753-b097-3c971de19bb3">
 <img width="125" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/7b5ad110-7e06-46f6-9b4e-0620da0eabc3">
+<img width="140" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/de10b6a3-8173-4350-9153-64d9466eaede">
+<img width="151" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/9ee8a8b8-2e85-4556-a4da-a235a4842f3b">
 
 
 ### Adventure Game: 
 
 This game is played only by a user. It is a game in which the user searches for a treasure by solving the riddles. We have used a while loop for playing multiple times depending upon the user. The library “time.h” is used to pick random riddles in each level of the game. File handling is used to display the ASCII art whenever required in the game. Switch cases are used to display the riddles, and hints, and store the result of the riddle. In switch cases, if conditions and ‘string comparison’ are used to compare the user-entered answer and the correct answer for the riddle. 
- 
- 
- 
+
+ <img width="273" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/1149b008-b658-439b-91b2-79e0274d59b2">
+
 This game goes on until a player solves 5 riddles or fails to solve a riddle.
 If a player is successful in solving a riddle, then the player will get the treasure.
-  
+
+Final:
+
+<img width="325" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/eb82d986-77cc-4224-ada5-b387c5215a36">
+
 If a player fails to solve a riddle, then the player will die.
- 
-Phone Book: It allows users to display contacts, search, and create a contact. Data structures are used to store the details of each contact. While loop is used to display options and execution of the following option.
 
- 
-Displaying all contacts
- 
-Searching a contact
- 
-Create a new contact
- 
- 
+<img width="205" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/1c48981d-29e4-4fec-a27e-640f638aa738">
 
-## App Store: 
+
+### App Store: 
 
 It allows users to install and delete apps. Swapping of elements in the array is used to install and delete apps. The sleeping function is used to display the install page.
 
+<img width="154" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/e3c65864-5c5e-4cea-b0fb-58fc4ab5e56d">
+<img width="148" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/6f02bfec-c49c-4894-9f8a-cab10760aa62">
  
- 
-Install Apps:
+#### Install Apps:
+
+<img width="267" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/fbacdc30-24b2-41e9-9e00-66b76c702d4f">
+<img width="266" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/7ec76df7-d3b5-421d-a29c-387c541f7859">
+
+#### Delete Apps:
+
+<img width="292" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/4483542f-d8ba-4d8c-a611-8a29eca97a2c">
+<img width="278" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/fda2866e-c0c0-4c7c-b07e-b0193d12d032">
 
  
- 
-Delete Apps:
- 
- 
-●	File Manager: It allows user to create, edit, and remove folders and text files. “system()” function from library <stdlib.h> is used to show directories and also for clear screen. "chdir()” [from <unistd.h> library] is used to change directories. File handling also plays a vital role for creating and editing a text file. 
- 
-•	Opening a folder:
- 
- 
-•	Options in Folder manager:
- 
-Folder Management
- 
+### File Manager: 
 
+It allows users to create, edit, and remove folders and text files. “system()” function from library <stdlib.h> is used to show directories and also for clear screen. "chdir()” [from <unistd.h> library] is used to change directories. File handling also plays a vital role in creating and editing a text file. 
 
+<img width="299" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/33a1e5e4-5afc-4d4c-9c8b-14f6132984a4">
 
+#### Opening a folder:
 
-
-
-
-
-
-
-Creating New Folder:
- 
+<img width="303" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/c5be5e9d-ceed-430d-9238-5c32f69c7f54">
+<img width="323" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/5a8002b9-aaf5-421e-b144-fbe2f5817d26">
 
  
-Deleting a Folder:
+#### Options in Folder Manager:
+
+<img width="173" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f85275ca-34aa-475c-ba23-27502cdf4fcc">
+
+#### Folder Management:
+ 
+<img width="153" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/b6e79ca7-f22b-43c6-b051-8567c892ee79">
+
+##### Creating New Folder:
+ 
+<img width="357" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/162220bc-d20e-49a3-8ba0-439b16bbc7ce">
+<img width="337" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/63af56c9-2a89-4146-aa11-785b2aa82173">
+
+ 
+##### Deleting a Folder:
   
+<img width="452" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/632bba1f-e10f-466f-94e9-41bb5018aa70">
 
 
-•	Options in File Management:
+#### Options in File Management:
+
+<img width="131" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f8a100a5-b689-42f0-9791-8660afd952db">
+
+##### Creating a new txt file:
+
+<img width="273" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/26a1ce46-b205-4794-ad69-7a2d6d2b101c">
+<img width="290" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f2d7d7d7-787c-43e8-a3cb-141f032eaa5e">
+
+##### Editing a txt file:
  
-Creating new txt file
+<img width="147" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/0e681d43-cd59-45a9-a335-1dfab8ad950a">
+<img width="347" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/75deaa62-319b-4bcd-ab83-c15c7cfeb372">
+
  
- 
+##### Deleting a txt file:
+
+<img width="313" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/62647c37-935a-4faa-bac2-d9a04ad85d96">
 
 
+## CONCLUSION:
 
-
-
-Editing txt file
- 
- 
-Deleting a file:
- 
-
-CONCLUSION:
-The Phone Replica software application was successfully developed in C language and tested to ensure its functionality and reliability. The application provides a user-friendly interface for the user to interact with the application. The application provides a basic functionality of a mobile phone, making it a useful tool for learning and practicing programming in C language. The development of this application is an excellent opportunity to demonstrate the use of C programming language in developing practical application and to provide a basic understanding of the functionality of a smart phone.
-
-![image](https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/db5d258c-39c2-480e-af1c-64894fffdf3c)
-
-
+The Phone Replica software application was successfully developed in C language and tested to ensure its functionality and reliability. The application provides a user-friendly interface for the user to interact with the application. The application provides the basic functionality of a mobile phone, making it a useful tool for learning and practicing programming in C language. The development of this application is an excellent opportunity to demonstrate the use of C programming language in developing practical applications and to provide a basic understanding of the functionality of a smartphone.
 
