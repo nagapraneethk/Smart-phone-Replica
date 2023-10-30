@@ -1512,28 +1512,28 @@ void Calender()
 void Phonebook()
 {
     struct contact cse[20];
-    strcpy(cse[0].name,"Akhil");
-    cse[0].phoneno = 9182486950;
-    strcpy(cse[0].email, "buttaakhil123@gmail.com");
+    strcpy(cse[0].name,"Alex");
+    cse[0].phoneno = 2876543210;
+    strcpy(cse[0].email, "alex@gmail.com");
     cse[0].gen = 'M';
 
-    strcpy(cse[1].name, "Praneeth");
+    strcpy(cse[1].name, "Harry");
     cse[1].phoneno = 9876543210;
-    strcpy(cse[1].email, "nagapraneethk@gmail.com");
+    strcpy(cse[1].email, "harry123@gmail.com");
     cse[1].gen = 'M';
 
-    strcpy(cse[2].name, "Danish");
-    cse[2].phoneno = 6311805726;
-    strcpy(cse[2].email, "danishshaik089@gmail.com");
+    strcpy(cse[2].name, "Arun");
+    cse[2].phoneno = 1319777261;
+    strcpy(cse[2].email, "arun378@gmail.com");
     cse[2].gen = 'M';
 
-    strcpy(cse[3].name, "Sundar");
-    cse[3].phoneno = 8678945690;
-    strcpy(cse[3].email, "hemsundar0101@gmail.com");
+    strcpy(cse[3].name, "Stella");
+    cse[3].phoneno = 2679955990;
+    strcpy(cse[3].email, "stella143@gmail.com");
     cse[3].gen = 'M';
 
-    strcpy(cse[4].name, "Raju");
-    cse[4].phoneno = 8123786593;
+    strcpy(cse[4].name, "Nooby");
+    cse[4].phoneno = 3123886593;
     strcpy(cse[4].email, "vrph1234@gmail.com");
     cse[4].gen = 'M';
 
