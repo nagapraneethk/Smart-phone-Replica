@@ -1,7 +1,4 @@
 # Smart-phone-Replica
-CONTENTS:
-https://github.com/nagapraneethk/Smart-phone-Replica#abstract
-https://github.com/nagapraneethk/Smart-phone-Replica#abstract
 
 ## INTRODUCTION:
 
@@ -12,7 +9,7 @@ The "Phone Replica" project aims to develop a software application that replicat
 
 ## METHODOLOGY:
 
-●	Problem statement: A brief description of the problem addressed by the project, which is the need to provide a more affordable alternative to expensive smart phones while offering a similar user experience.
+●	Problem statement: A brief description of the problem addressed by the project, which is the need to provide a more affordable alternative to expensive smartphones while offering a similar user experience.
 
 ●	Programming language: C language was used to write the program.
 
