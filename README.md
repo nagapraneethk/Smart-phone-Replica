@@ -111,6 +111,7 @@ It allows users to convert the currency of one country to another country. While
 The game is between two users. Whenever any player forms a straight line in any direction in the game then the player is the winner of the game. We used a while loop for playing multiple times depending on the user. We used data structures to reserve a particular place in the game for User 1 and User 2. With the help of data structures and a for loop, the grid system in the game is printed. If, else ifs are used to display the result of the game between user 1 and user 2.
 
 <img width="125" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/776cc94a-762c-4753-b097-3c971de19bb3">
+<img width="125" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/7b5ad110-7e06-46f6-9b4e-0620da0eabc3">
 
 
 # Adventure Game: 
