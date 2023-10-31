@@ -23,7 +23,9 @@
 			* [Opening a folder](#opening-a-folder)
 			* [File Manager Options](#file-manager-options)
 			* [Folder Management](#folder-management)
-		
+			* [Deleting a Folder](#deleting-a-folder)
+			* [Txt File Management Options](#txt-file-management-options)
+* [CONCLUSION](#conclusion)
         
 ## INTRODUCTION:
 
@@ -210,7 +212,7 @@ It allows users to create, edit, and remove folders and text files. `system()` f
 <img width="452" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/632bba1f-e10f-466f-94e9-41bb5018aa70">
 
 
-#### Options in File Management:
+#### Txt File Management Options:
 
 <img width="131" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f8a100a5-b689-42f0-9791-8660afd952db">
 
