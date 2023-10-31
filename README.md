@@ -1,11 +1,11 @@
-# Smart-phone-Replica
-
-* [INTRODUCTION](#INTORDUCTION)
-* [ABSTRACT](#ABSTRACT)
-* [METHODOLOGY](#METHODOLOGY)
-	* [HOME SCREEN](#Home-Screen)
- 	* [Settings](#Settings)
-  	* [Change Passowrd](#change-passowrd)
+# SMART PHONE REPLICA
+## INDEX:
+* [INTRODUCTION](#introduction)
+* [ABSTRACT](#abstract)
+* [METHODOLOGY](#methodology)
+	* [HOME SCREEN](#home-screen)
+ 	* [Settings](#settings)
+  	* [Change Password](#change-password)
   	* [Set Wallpaper](#set-wallpaper)
   	* [Font Color](#font-color)
   	* [Display Color](#display-color)
@@ -16,6 +16,13 @@
 		* [Calendar](#calendar)
 		* [Currency Converter](#currency-converter)
 		* [Tic-Tac-Toe](#tic-tac-toe)
+		* [APP Store](#app-store)
+			* [Install Apps](#install-apps)
+			* [Delete Apps](#delete-apps)
+		* [File Manager](#file-manager)
+			* [Opening a folder](#opening-a-folder)
+			* [File Manager Options](#file-manager-options)
+			* [Folder Management](#folder-management)
 		
         
 ## INTRODUCTION:
@@ -184,7 +191,7 @@ It allows users to create, edit, and remove folders and text files. `system()` f
 <img width="323" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/5a8002b9-aaf5-421e-b144-fbe2f5817d26">
 
  
-#### Options in Folder Manager:
+#### File Manager Options:
 
 <img width="173" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/f85275ca-34aa-475c-ba23-27502cdf4fcc">
 
