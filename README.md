@@ -3,8 +3,21 @@
 * [INTRODUCTION](#INTORDUCTION)
 * [ABSTRACT](#ABSTRACT)
 * [METHODOLOGY](#METHODOLOGY)
-	* [HOME SCREEN](##Home_Screen)
- 	* [Settings](###Settings)
+	* [HOME SCREEN](#Home-Screen)
+ 	* [Settings](#Settings)
+  	* [Change Passowrd](#change-passowrd)
+  	* [Set Wallpaper](#set-wallpaper)
+  	* [Font Color](#font-color)
+  	* [Display Color](#display-color)
+* [APPS IN PHONE REPLICA](#apps-in-phone-replica)
+	* [App List](#app-list)
+		* [Rock Paper & Scissors](#rock-paper-scissors)
+		* [Calculator](#calculator)
+		* [Calendar](#calendar)
+		* [Currency Converter](#currency-converter)
+		* [Tic-Tac-Toe](#tic-tac-toe)
+		
+        
 ## INTRODUCTION:
 
 The purpose of this project is to develop a software application in C language that replicates the functionality of a basic mobile phone. The Phone Replica application will be able to add contacts, play games, perform the function of a simple calculator and currency convertor, and display a calendar. It also can install and delete apps from the App Store. This replica has a feature to change the password, wallpaper of the lock screen, font color, and display color through the settings. It also has a file manager comprising folders, sub-folders, and files. File manager provides users to create new folders, subfolders, and files and it also has access to delete and edit them.
@@ -34,7 +47,7 @@ The "Phone Replica" project aims to develop a software application that replicat
 
 ### Change Password: 
 
-It allows the user to create a new password. File handling is used to check and store the password entered by the user. String comparison is used to verify the password entered by the user. For security purposes when the user enters the password it will display in “*” format and it is done through “\b” in printf function.
+It allows the user to create a new password. File handling is used to check and store the password entered by the user. String comparison is used to verify the password entered by the user. For security purposes when the user enters the password it will display in `*` format and it is done through `\b` in 'printf' function.
 
 <img width="270" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/31b82956-1893-4f43-9bf5-ac4d2887d18d">
 
@@ -53,7 +66,7 @@ After:
  
 #### Font Color: 
 
-This function is used to change the font color of the mobile(entire program).  system(“color ##”) command is used to change the desired font color.
+This function is used to change the font color of the mobile(entire program).  `system(“color ##”)` is used to change the desired font color.
 
 Before:
 
@@ -66,7 +79,7 @@ After:
  
 #### Display Color: 
 
-This setting allows the user to access the desired display color. system(“color ##”) command is used to change the display color. 
+This setting allows the user to access the desired display color. `system(“color ##”)` is used to change the display color. 
 
 Before:
 
@@ -86,7 +99,7 @@ After:
 
 ### Rock Paper Scissors: 
 
-The game is between the user and the computer. We have used a while loop for playing multiple times depending upon the user. The library “time.h” is used to pick random options for the computer. File handling is used to display the ASCII art whenever required in the game. Nested switch cases are used to give the result of the game between the user and the computer.
+The game is between the user and the computer. We have used a while loop for playing multiple times depending upon the user. The library `time.h` is used to pick random options for the computer. File handling is used to display the ASCII art whenever required in the game. Nested switch cases are used to give the result of the game between the user and the computer.
 
  <img width="165" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/a6b560b9-25e2-457e-bf6a-7d891c0cdb6c">
 
@@ -125,7 +138,7 @@ The game is between two users. Whenever any player forms a straight line in any 
 
 ### Adventure Game: 
 
-This game is played only by a user. It is a game in which the user searches for a treasure by solving the riddles. We have used a while loop for playing multiple times depending upon the user. The library “time.h” is used to pick random riddles in each level of the game. File handling is used to display the ASCII art whenever required in the game. Switch cases are used to display the riddles, and hints, and store the result of the riddle. In switch cases, if conditions and ‘string comparison’ are used to compare the user-entered answer and the correct answer for the riddle. 
+This game is played only by a user. It is a game in which the user searches for a treasure by solving the riddles. We have used a while loop for playing multiple times depending upon the user. The library `time.h` is used to pick random riddles in each level of the game. File handling is used to display the ASCII art whenever required in the game. Switch cases are used to display the riddles, and hints, and store the result of the riddle. In switch cases, 'if' conditions and ‘string comparison’ are used to compare the user-entered answer and the correct answer for the riddle. 
 
  <img width="273" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/1149b008-b658-439b-91b2-79e0274d59b2">
 
@@ -161,7 +174,7 @@ It allows users to install and delete apps. Swapping of elements in the array is
  
 ### File Manager: 
 
-It allows users to create, edit, and remove folders and text files. “system()” function from library <stdlib.h> is used to show directories and also for clear screen. "chdir()” [from <unistd.h> library] is used to change directories. File handling also plays a vital role in creating and editing a text file. 
+It allows users to create, edit, and remove folders and text files. `system()` function from library <stdlib.h> is used to show directories and also for clear screen. `chdir()` [from `<unistd.h>` library] is used to change directories. File handling also plays a vital role in creating and editing a text file. 
 
 <img width="299" alt="image" src="https://github.com/nagapraneethk/Smart-phone-Replica/assets/115631392/33a1e5e4-5afc-4d4c-9c8b-14f6132984a4">
 
