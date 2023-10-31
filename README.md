@@ -3,7 +3,7 @@
 * [INTRODUCTION](##INTORDUCTION)
 * [ABSTRACT](##ABSTRACT)
 * [METHODOLOGY](##METHODOLOGY)
-	* [HOME SCREEN](###Home_Screen)
+	* [HOME SCREEN](###Home Screen)
  	* [Settings](###Settings)
 ## INTRODUCTION:
 
