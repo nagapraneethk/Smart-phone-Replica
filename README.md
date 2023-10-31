@@ -1,9 +1,9 @@
 # Smart-phone-Replica
 
 * [INTRODUCTION](##INTORDUCTION)
-* [ABSTRACT](##ABSTRACT)
-* [METHODOLOGY](##METHODOLOGY)
-	* [HOME SCREEN](###Home Screen)
+* [ABSTRACT](#ABSTRACT)
+* [METHODOLOGY](#METHODOLOGY)
+	* [HOME SCREEN](##Home_Screen)
  	* [Settings](###Settings)
 ## INTRODUCTION:
 
